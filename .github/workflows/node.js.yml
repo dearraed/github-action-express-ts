@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: medraedbesbes/express-app-github-action:latest
+          tags: medraedbesbes/express-app-github-action
